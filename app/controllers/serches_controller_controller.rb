@@ -1,0 +1,2 @@
+class SerchesControllerController < ApplicationController
+end

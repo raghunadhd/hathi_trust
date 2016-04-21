@@ -1,0 +1,2 @@
+module SerchesControllerHelper
+end
